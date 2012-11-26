@@ -2,7 +2,7 @@ ArduinoBluetooth
 ================
 Connect Android to the Arduino UNO using the Bluetooth Mate Silver to active an LED
 
-THIRD PARTY DEPENDENCIES:
+THIRD PARTY DEPENDENCIES
 ---------------------------
 - NewSoftSerial *Included with Arduino 1.0+ (http://arduiniana.org/libraries/newsoftserial/)
 
@@ -16,7 +16,7 @@ INSTRUCTIONS
 6. Type 'h' on your phone to turn on the LED
 7. Type 'l' on your phone to turn off the LED
 
-RESOURCES:
+RESOURCES
 ---------------------------
 http://bellcode.wordpress.com/2012/01/02/android-and-arduino-bluetooth-communication/
 http://www.flickr.com/photos/ricardo_ferreira/4225911933/
