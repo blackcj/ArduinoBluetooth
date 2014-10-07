@@ -16,6 +16,8 @@ INSTRUCTIONS
 6. Type 'h' on your phone to turn on the LED
 7. Type 'l' on your phone to turn off the LED
 
+![GitHub Logo](/images/IMG_4398.jpg)
+
 RESOURCES
 ---------------------------
 http://bellcode.wordpress.com/2012/01/02/android-and-arduino-bluetooth-communication/
